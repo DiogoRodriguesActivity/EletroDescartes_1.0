@@ -6,6 +6,8 @@
 -- Tempo de geração: 25/10/2025 às 14:06
 -- Versão do servidor: 10.4.32-MariaDB
 -- Versão do PHP: 8.2.12
+create database if not exists `eletrodescartesbanco`;
+use `eletrodescartesbanco`;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
