@@ -63,7 +63,7 @@ Objetivos principais:
 ---
 
 ## Estrutura de Diretórios
-
+```
 EletroDescarte/
 ├── .vite/
 ├── app/
@@ -94,7 +94,7 @@ EletroDescarte/
 │ └── web.php
 ├── storage/
 └── README.md
-
+```
 ## Como Executar o Projeto
 
 ### 1. Pré-requisitos
