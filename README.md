@@ -122,14 +122,14 @@ Criar o arquivo `.env`:
 
 ### 4. Instalar Dependências
 
-1.composer install
-2.php artisan key:generate
-3.npm install
+1. composer install  </br>
+2. php artisan key:generate  </br>
+3. npm install  </br>
 
-4.php artisan migrate
-5.php artisan db:seed
+4. php artisan migrate  </br>
+5. php artisan db:seed  </br>
 
 ### 5. Executar o Projeto
 
-1.php artisan serve
-2.npm run dev
+1. php artisan serve </br>
+2. npm run dev
